@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-starter-digital-garden",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.4",
+    "gatsby-theme-garden": "^0.1.43",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
